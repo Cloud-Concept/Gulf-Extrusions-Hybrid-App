@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<servers>
+    <!--<server name="Production" url="https://login.salesforce.com"/>-->
+    <server name="Production" url="https://gulfex.force.com"/>
+    <!--<server name="Production" url="https://login.salesforce.com"/>-->
+    <!--<server name="Production" url="https://dev-gulfextrusions.cs81.force.com"/>-->
+    <server name="Sandbox" url="https://test.salesforce.com"/>
+    <!--<server name="Sandbox" url="https://dev-gulfextrusions.cs81.force.com"/>-->
+</servers>
